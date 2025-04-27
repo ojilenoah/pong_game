@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata = {
   title: "PING VS PONG",
   description: "A two-player pong game with retro styling",
-    generator: 'v0.dev'
+    generator: 'Noah Ojile'
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
